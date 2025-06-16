@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuraCode24
-- 👀 I’m interested in cyber security, python developer or backend developer
+- 👀 I’m interested to be software engineer
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on who want to learning together
 - 📫 How to reach me (soon)
