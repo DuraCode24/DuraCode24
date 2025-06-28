@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on who want to learning together
 - 📫 How to reach me (soon)
-- 😄 Pronouns: finish what u start
+- 😄 Pronouns: finish what you start
 - ⚡ Fun fact: im a bird
 
 <!---
